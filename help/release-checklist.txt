@@ -1,0 +1,1 @@
+Check plugin and the help-document version on the first page.
