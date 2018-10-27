@@ -2,6 +2,9 @@
 Welcome to StepToSky 3DsMax-XplnObj's documentation!
 =====================================================
 
+| `Plug-in version:` 2.5.0-beta
+| `Doc revision:` 1
+
 - `Contacts <https://www.steptosky.com/index.php/contact-us>`_
 - `Source <https://github.com/steptosky/3DsMax-XplnObj>`_
 - `This doc source <https://github.com/steptosky/3DsMax-XplnObj-Doc>`_
