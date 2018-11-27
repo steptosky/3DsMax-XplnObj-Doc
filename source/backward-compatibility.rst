@@ -1,5 +1,4 @@
-.. _bcw_version_2.2.0:
-
+.. _backward-compatibility:
 
 Backward Compatibility
 ====================================
@@ -9,7 +8,15 @@ Backward Compatibility
     - if it is possible new plug-in versions support scenes which are made with the previous versions not older then 1.8.5.  
       If new version breaks backward compatibility you will be informed in this documentation and in the change log.
 
-      
+
+Version 2.6.0
+-------------------------
+| In this version Datarefs and Commands project format was changed. The new format allows you to use data started with figures.
+| Symbol '':'' must immediately follow the ID. Example: ``000001: my/dataref/name``
+| You **must manually change** your ``DataRefs.txt`` and ``Commands.txt`` project files if they have data ID.
+| :ref:`Read more <projects-datarefs-and-commands>`.
+
+
 Version 2.4.0
 -------------------------
 | In this version bug with LODs' values was fixed. 
@@ -20,7 +27,7 @@ Version 2.4.0
         - **New behavior:** The LOD's values are printed into obj file exactly as they were set.
 
 
-    
+
 Version 2.2.0
 -------------------------
 
