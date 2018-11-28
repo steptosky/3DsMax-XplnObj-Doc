@@ -47,6 +47,8 @@ Example of valid data
 
 .. code-block:: text
 
+    Pay attention that DataRefs use tab symbol as the separator while Commands use space.
+
     000001: my/data/ref/1
     000005: my/data/ref/2
     my/data/ref/3
