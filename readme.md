@@ -7,7 +7,7 @@ Built plug-in's doc [3dsmax-xplnobj](https://3dsmax-xplnobj.readthedocs.io).
 
 ### How to build
 
-- Install python and [pip docs](https://pip.pypa.io/en/stable/installing/).
+- Install python and [pip](https://pip.pypa.io/en/stable/installing/).
 - Install the requirements (sphinx): `$ pip install -r requirements.txt`
 - Build the documentation: `$ make html`
 
